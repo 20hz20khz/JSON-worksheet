@@ -3,6 +3,7 @@
 This is a simple exercise in learning/following syntax.
 
 If this were graded with a rubric, it might look like this:
+
 |Rubric      | 4 | 3 | 2 | 1 |
 |------------|---|---|---|---|
 |Content     |   |   |   |   |
