@@ -1,0 +1,25 @@
+Assignment #1: Replace the colors, animals, nature nouns, and names with your own. Type in at least 9 new colors, 9 new animals, 9 new nature nouns, and 9 new names. Remember that each word in the list must be "surrounded" "by" "quotation marks" and must seperated, by, commas, like, this.
+
+{
+	"sentence": ["The #color# #animal# of the #natureNoun# is called #name#"]
+,	"color": ["blurple","rainbow","snozberry"]
+,	"animal": ["dog","unicorn","jabberwocky"]
+,	"natureNoun": ["ocean","mountain","forest"]
+,	"name": ["Arjun","Yuuma","Darcy"]
+}
+
+
+Assignment #2: Replace the three verbs in the following sentence with #verb#
+
+{
+	"sentence": ["There's a fire starting in my heart, It's reaching a fever pitch, And it's bringing me out the dark"]
+}
+
+
+Assignment #3: Replace the two nouns in the following sentence with #noun# and replace the three verbs with #verb# the create a list of nouns and a list verbs.
+
+{
+	"sentence": ["The players gonna play and the haters gonna hate and I'm just gonna shake"]
+,	"noun":[   ]
+,	"verb":[   ]
+}
